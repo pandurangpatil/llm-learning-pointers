@@ -12,3 +12,6 @@
 2. Vectors (Tensors are an extension of vectors) - https://brilliant.org/courses/vectors/
 3. Tensor - https://www.youtube.com/watch?v=k2FP-T6S1x0
 
+## Coding
+
+1. Comprehensive Pytorch - https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
