@@ -13,8 +13,9 @@
 3. Tensor - https://www.youtube.com/watch?v=k2FP-T6S1x0
 
 ## Bridge between Maths and Neural Networks
-1. Maths related Machine Learning https://www.youtube.com/watch?v=Wi5hWa_XEck
-2. A video about neural networks, function approximation, machine learning, and mathematical building blocks - https://www.youtube.com/watch?v=TkwXa7Cvfr8
+1. Linear Algebra for Machine Learning and Data Science - https://www.youtube.com/watch?v=Wi5hWa_XEck
+2. Probability & Statistics for Machine Learning and Data Science - https://www.youtube.com/watch?v=DCZSkoVvkQI
+3. A video about neural networks, function approximation, machine learning, and mathematical building blocks - https://www.youtube.com/watch?v=TkwXa7Cvfr8
 
 ## Coding
 
