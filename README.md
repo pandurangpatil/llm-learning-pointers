@@ -11,6 +11,8 @@
 1. Calculus https://brilliant.org/courses/calculus-nutshell/
 2. Vectors (Tensors are an extension of vectors) - https://brilliant.org/courses/vectors/
 3. Tensor - https://www.youtube.com/watch?v=k2FP-T6S1x0
+4. Essense of Calculus - https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+5. Essense of Linear Algebra - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 ## Bridge between Maths and Neural Networks
 1. Linear Algebra for Machine Learning and Data Science - https://www.youtube.com/watch?v=Wi5hWa_XEck
