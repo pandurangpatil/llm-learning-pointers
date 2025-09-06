@@ -13,7 +13,8 @@
 3. Tensor - https://www.youtube.com/watch?v=k2FP-T6S1x0
 
 ## Bridge between Maths and Neural Networks
-1. https://www.youtube.com/watch?v=TkwXa7Cvfr8
+1. Maths related Machine Learning https://www.youtube.com/watch?v=Wi5hWa_XEck
+2. A video about neural networks, function approximation, machine learning, and mathematical building blocks - https://www.youtube.com/watch?v=TkwXa7Cvfr8
 
 ## Coding
 
