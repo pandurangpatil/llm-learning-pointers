@@ -1,5 +1,11 @@
 # llm-learning-pointers #
 
+## Best playlist by Andrej Karpathy
+He will walk you through the small neural network crafted step by step, explaining every minute detail. 
+Then goes on to build GPT2 LLM incrementally.
+
+https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+
 ## Internet learning resources for Neural networks
 1. Simple perceptron ( machine neuron ) training example - https://youtu.be/l-9ALe3U-Fg?si=m2Hg2JliM48oKKF6
 2. ⁠Then go through this list of videos by this professor. This one is covering concepts in sequence - https://www.youtube.com/playlist?list=PL2zRqk16wsdo3VJmrusPU6xXHk37RuKzi
