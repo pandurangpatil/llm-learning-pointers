@@ -6,11 +6,15 @@ Then goes on to build GPT2 LLM incrementally.
 
 https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
-### The spelled-out intro to neural networks and backpropagation: building micrograd
+### 1. The spelled-out intro to neural networks and backpropagation: building micrograd
 https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2
 
 Explains how the gradient calculation is being done, single perceptron, multi-layer perceptron ( small neural network ). Covers gradient calculation, loss, updating the weights. 
-#### Chapters
+
+<details>
+<summary> Click to expand chapters</summary>
+
+<br/>
 
 - [00:00:00 — Intro](https://www.youtube.com/watch?v=VMj-3S1tku0&t=0s)
 - [00:00:25 — Micrograd overview](https://www.youtube.com/watch?v=VMj-3S1tku0&t=25s)
@@ -35,6 +39,7 @@ Explains how the gradient calculation is being done, single perceptron, multi-la
 - [02:24:39 — Conclusion](https://www.youtube.com/watch?v=VMj-3S1tku0&t=8679s)
 - [02:25:20 — Outtakes :)](https://www.youtube.com/watch?v=VMj-3S1tku0&t=8720s)
 
+</details>
 
 ## Internet learning resources for Neural networks
 1. Simple perceptron ( machine neuron ) training example - https://youtu.be/l-9ALe3U-Fg?si=m2Hg2JliM48oKKF6
