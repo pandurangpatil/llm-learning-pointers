@@ -6,6 +6,10 @@ Then goes on to build GPT2 LLM incrementally.
 
 https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
+### LLM - Short introduction to embedding
+
+https://youtu.be/wjZofJX0v4M?si=5k1sxRuTwCdxzA20
+
 ### 1. The spelled-out intro to neural networks and backpropagation: building micrograd
 https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2
 
