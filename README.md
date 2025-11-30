@@ -13,9 +13,10 @@ The following are a few resources to understand embedding vectors.
 2. This one enhances this understanding - https://youtu.be/wjZofJX0v4M?si=5k1sxRuTwCdxzA20
 
 
-### LLM - Query, Key and Value ( Selft Attention & Cross attention)
+### LLM - Query, Key and Value ( Selft Attention, Multi-Head Attention & Cross attention)
 
-https://youtu.be/eMlx5fFNoYc?si=Vl_oFn1UUygh_8Lk
+1. https://youtu.be/eMlx5fFNoYc?si=Vl_oFn1UUygh_8Lk
+2. https://www.youtube.com/watch?v=KMHkbXzHn7s
 
 ### 1. The spelled-out intro to neural networks and backpropagation: building micrograd
 https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2
