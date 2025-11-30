@@ -8,7 +8,10 @@ https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
 ### LLM - Short introduction to embedding
 
-https://youtu.be/wjZofJX0v4M?si=5k1sxRuTwCdxzA20
+The following are a few resources to understand embedding vectors.
+1. This one gives some basic visualization - https://www.youtube.com/watch?v=hVM8qGRTaOA
+2. This one enhances this understanding - https://youtu.be/wjZofJX0v4M?si=5k1sxRuTwCdxzA20
+
 
 ### LLM - Query, Key and Value ( Selft Attention & Cross attention)
 
